@@ -6,8 +6,8 @@ title: Iva — Support
 
 Say it, and Iva files it. Iva listens to what you say, works out which of your tables it belongs in, fills in the columns, and saves the row — all on your iPhone or iPad.
 
-- [Privacy Policy](privacy.html)
-- [Terms of Service](terms.html)
+- [Privacy Policy](privacy.md)
+- [Terms of Service](terms.md)
 
 ## Support
 
