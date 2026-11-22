@@ -47,7 +47,7 @@ Iva is not directed at children under 13 and does not knowingly collect informat
 
 ## Your rights
 
-Because we do not collect or hold any personal data, there is nothing for us to access, correct, export or delete on your behalf. You are in full control of your data in the app, and can edit, export or delete it at any time. This applies to residents of California (CCPA/CPRA), the European Economic Area and the UK (GDPR) and elsewhere.
+Because we do not collect or hold any personal data, there is nothing for us to access, correct, export or delete on your behalf. You are in full control of your data in the app, and can edit, export or delete it at any time. This applies wherever you live, including under US state privacy laws and the GDPR in the European Economic Area and the UK.
 
 ## Changes
 

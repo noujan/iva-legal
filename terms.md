@@ -38,7 +38,7 @@ We may update the app or these terms at any time. If these terms change, we will
 
 ## 8. Governing law
 
-These terms are governed by the laws of the State of California, USA, without regard to its conflict-of-law rules. Any dispute will be brought in the state or federal courts located in California, unless the law where you live requires otherwise.
+These terms are governed by the laws of the State of New York, USA, without regard to its conflict-of-law rules. Any dispute will be brought in the state or federal courts located in New York County, New York, unless the law where you live requires otherwise.
 
 ## 9. Contact
 
