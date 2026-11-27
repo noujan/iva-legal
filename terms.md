@@ -4,7 +4,7 @@ title: Iva — Terms of Service
 
 # Terms of Service
 
-_Last updated: November 21, 2026_
+_Last updated: November 27, 2026_
 
 These terms apply to your use of the Iva app ("Iva", "the app") for iPhone and iPad. By downloading or using Iva you agree to them. If you do not agree, do not use the app.
 
@@ -14,15 +14,17 @@ Iva is distributed through Apple's App Store and is licensed to you under Apple'
 
 ## 2. Using Iva
 
-Iva is free. You may use it for personal or business purposes on Apple devices you own or control. You may not reverse engineer, resell or redistribute the app, or use it to break any law.
+Iva is free. It has no in-app purchases, subscriptions or paid features, and no accounts or login. You may use it for personal or business purposes on Apple devices you own or control. You may not reverse engineer, resell or redistribute the app, or use it to break any law.
 
 ## 3. Your content
 
-Everything you create in Iva — your tables, rows, notes, recordings turned into text, and photos — belongs to you and is stored on your device. You are responsible for that content, for having the right to record or save it, and for keeping your own backups. Please respect other people's privacy and the law when recording conversations or saving details about other people.
+Everything you create in Iva — your tables, rows, notes, recordings turned into text, and photos — belongs to you and is stored on your device. You are responsible for that content, for having the right to record or save it, and for keeping your own backups. Please respect other people's privacy and the law when recording conversations or saving details about other people. Iva has no social features: your content is private to you and is never shown to other users.
 
 ## 4. Automatic sorting and filling
 
-Iva uses speech recognition, text recognition and an on-device language model (or pattern matching) to guess which table a note belongs in and how to fill its columns. These guesses can be wrong. Check important information before relying on it. The review screen is there so you can do that.
+Iva automatically guesses which table a note belongs in and how to fill its columns. These guesses can be wrong. Check important information before relying on it. The review screen is there so you can do that.
+
+Iva works the same in every region. Some features use Apple Intelligence where Apple offers it.
 
 ## 5. No warranty
 

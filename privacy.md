@@ -4,26 +4,29 @@ title: Iva — Privacy Policy
 
 # Privacy Policy
 
-_Last updated: November 21, 2026_
+_Last updated: November 27, 2026_
 
 This policy describes how the Iva app ("Iva", "the app", "we") for iPhone and iPad handles your information.
 
 ## The short version
 
-Iva does not collect, store, sell or share any of your personal data. Everything you save stays on your device. There is no account, no server run by us, no analytics, no advertising and no tracking.
+Iva does not collect, store, sell or share any of your personal data. Everything you save stays on your device. There is no account or login, no server run by us, no third-party services, no analytics, no advertising and no tracking.
 
 ## What stays on your device
 
 - **Your tables and rows**, including the text you speak or type, your original words, and any photos you attach (for example, of business cards), are stored only in the app's storage on your device.
 - **Your preferences** (such as "Save without asking" and the event you are at) are stored on your device.
-- **Text recognition** of cards and photos is done on the device with Apple's Vision framework.
-- **Sorting and filling columns** is done on the device with Apple's on-device Apple Intelligence model, or, when that is unavailable, with on-device pattern matching.
+- **Reading cards and photos, sorting notes and filling columns** all happen on your device.
 
-We have no way to see, access or recover this data. If you delete the app, the data is deleted with it, unless it is included in your own iCloud or computer device backup, which is governed by Apple's terms.
+We have no way to see, access or recover this data. Your content is never shown to other users: Iva has no social features and no public content.
+
+## Deleting your data
+
+You can delete any row or table inside the app at any time. If you delete the app, all its data is deleted with it, unless it is included in your own iCloud or computer device backup, which is governed by Apple's terms. Because Iva has no accounts, there is no account to delete.
 
 ## Speech recognition
 
-Iva turns your speech into text using Apple's Speech framework. Wherever Apple supports on-device recognition for your language, this happens entirely on your device. For languages where on-device recognition is not available, Apple's speech recognition service may process the audio; that processing is done by Apple under [Apple's Privacy Policy](https://www.apple.com/legal/privacy/), not by us. Iva's Settings screen tells you which applies.
+Iva turns your speech into text with Apple's speech recognition, on your device wherever Apple supports it for your language. Otherwise Apple may process the audio under [Apple's Privacy Policy](https://www.apple.com/legal/privacy/); we never receive it.
 
 ## Permissions
 
