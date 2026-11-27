@@ -19,7 +19,7 @@ Questions, problems or ideas? Email **[noujan72@gmail.com](mailto:noujan72@gmail
 
 **Where is my data?** On your device only, in the app's own storage. To move it, use Settings → Export to make a CSV per table or a full backup file.
 
-**Why does Iva put a note in the wrong table?** With Apple Intelligence turned on, Iva uses Apple's on-device model to sort and fill rows. Without it, Iva uses pattern matching, which handles common phrasings but can get unusual sentences wrong. The review screen shows the row before it is saved so you can fix or move it.
+**Why does Iva put a note in the wrong table?** Iva's sorting can sometimes guess wrong. The review screen shows the row before it is saved so you can fix or move it.
 
 **The microphone doesn't work.** Check Settings → Privacy & Security → Microphone and Speech Recognition, and make sure Iva is allowed. Speech recognition needs a real device; it is not available in the Simulator.
 
